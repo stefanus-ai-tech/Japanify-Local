@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japanify</title>
+    <link rel="stylesheet" href="styles2.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"> <!-- Bootstrap Icons -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Enter your name and convert it to Japanese</h1>
+        <input type="text" id="nameInput" placeholder="Enter your name">
+        <button onclick="convertName()">Convert to Japanese</button>
+        <div id="result"></div>
+        <div id="warnings"></div>
+        <button id="playButton" onclick="playAudio()" disabled>Hear the sound</button>
+        <audio id="audioPlayer"></audio>
+    </div>
+    <footer>
+        <div>Made by stefanus_ai_tech</div>
+        <div class="social-links">
+            <a href="https://github.com/stefanus-ai-tech" target="_blank" title="GitHub Profile"><i class="bi bi-github"></i></a>
+            <a href="https://wa.me/6281310803571" target="_blank" title="WhatsApp Contact"><i class="bi bi-whatsapp"></i></a>
+        </div>
+    </footer>
+    <script src="script2.js"></script>
+</body>
+</html>

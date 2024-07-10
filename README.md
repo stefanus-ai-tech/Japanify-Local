@@ -1,1 +1,1 @@
-# Japanify-Local
+# Japanify-Deploy
