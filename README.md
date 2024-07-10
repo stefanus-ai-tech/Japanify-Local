@@ -22,8 +22,8 @@ Japanify is a web application that converts Indonesian names into meaningful Jap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/japanify.git
-   cd japanify
+   git clone https://github.com/stefanus-ai-tech/Japanify-Local
+   cd Japanify-Local
    ```
 
 2. Create a virtual environment and activate it:
