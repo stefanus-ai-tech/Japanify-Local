@@ -19,6 +19,7 @@ https://github.com/stefanus-ai-tech/Japanify-Local/assets/148773999/113b7cbf-5d8
 ## Technology Stack
 
 - Flask
+- Python 
 - HTML
 - CSS
 - JavaScript
