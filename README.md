@@ -2,7 +2,7 @@
 
 Japanify is a web application that converts Indonesian names into meaningful Japanese names, providing translations in kanji, hiragana, and romaji, along with their meanings in English.
 
-## Video demonstration
+## Video demonstration (Turn on the sound)
 
 
 https://github.com/stefanus-ai-tech/Japanify-Local/assets/148773999/113b7cbf-5d8f-4f27-b5fe-6f26ed0ab645
